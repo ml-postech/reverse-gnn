@@ -1,6 +1,6 @@
 # Distinguishing Neighborhood Representations Through Reverse Process of GNNs for Heterophilic Graphs
 
-This repository contains a PyTorch implementation of "[Distinguishing Neighborhood Representations Through Reverse Process of GNNs for Heterophilic Graphs](https://arxiv.org/abs/2403.10543)". 
+This repository contains a PyTorch implementation of "Distinguishing Neighborhood Representations Through Reverse Process of GNNs for Heterophilic Graphs". 
 
 ### Python environment setup with Conda
 
